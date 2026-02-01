@@ -121,3 +121,7 @@ This project demonstrates:
 - [DOCUMENTATION.md](DOCUMENTATION.md) - Technical documentation
 - [Jupyter Notebook](notebooks/text_classification_exploration.ipynb) - Interactive exploration
 
+## Deployment Link
+
+https://spamdetection-m67ctgy6em4jgmfby92ens.streamlit.app/
+
